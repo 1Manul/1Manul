@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Manul Bandara</h1>
 <h3 align="center">Undergraduate student at SLIIT</h3>
 
